@@ -1,0 +1,5 @@
+Facture n° 2 date : 10/12/2018
+ID Produit --- Libelle Produit --- Prix unitaire --- Quantité --- Total Produit 
+1 ------------- prod 1 ------------- 100 ------------- 10 ------------- 1000
+3 ------------- prod 3 ------------- 700 ------------- 40 ------------- 28000
+Total à payer = 29000

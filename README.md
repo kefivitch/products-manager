@@ -1,1 +1,1 @@
-products manager
+GestionProds
